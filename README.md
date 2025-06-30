@@ -1,3 +1,18 @@
+# Changes made in our fork of SurfaceDevCenterManager
+
+## Summary
+This is an internal fork maintained by the cm driver team.
+
+### Changes
+
+- Added our entra ID, cliet id and client secret for auto ateatation signing.
+
+### Sync Notes
+
+- Forked from: https://github.com/microsoft/SurfaceDevCenterManager
+- Last synced: 2025-06-30 (commit e6d9d99)
+
+
 # __Surface Dev Center Manager (SDCM)__
 
 Surface Dev Center Manager (SDCM) is a tool that utilizes the REST APIs made available by Microsoft Partner Center (a.k.a. Hardware Dev Center) to automate many common tasks for hardware development and maintenance around driver and firmware management.
